@@ -1,4 +1,4 @@
-# Laravel 5.5 / Vue 2 (VueRouter) / Bootstrap 3.3.7 SPA
+# Laravel 5.5 / Vue 2 (VueRouter) / Bootstrap 3.3.7 SPA (NOT COMPLETED)
 
 This is an example of [Single-Page Application](https://en.wikipedia.org/wiki/Single-page_application) site built on Laravel 5.5 and VueJS 2. Webpack used via laravel-min plugin.
 
