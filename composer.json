@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "NMFES/laravel-vue-workers-management",
+    "description": "Test task for workers management",
+    "keywords": ["laravel", "vue"],
     "license": "MIT",
     "type": "project",
     "require": {
